@@ -1,6 +1,6 @@
-# coWritter
+# CoWriter
 
-coWritter is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
+coWriter is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
 
 ## Features
 
@@ -14,13 +14,12 @@ The web app displays a list of online collaborators for each document. Users can
 
 ### 3. Email Verification
 
-To enhance security and user authentication, coWritter implements email verification for user accounts. Users receive an email with a verification link upon registration.
+To enhance security and user authentication, coWriter implements email verification for user accounts. Users receive an email with a verification link upon registration.
 
-To enhance security and user authentication, coWritter implements email verification for user accounts. Users receive an email with a verification link upon registration.
 
 ### 4. Real-Time Editing
 
-Quill, a powerful and customizable WYSIWYG editor, is integrated into coWritter to provide a seamless real-time editing experience. Users can see live updates as collaborators edit the document.
+Quill, a powerful and customizable WYSIWYG editor, is integrated into coWriter to provide a seamless real-time editing experience. Users can see live updates as collaborators edit the document.
 
 ## Technologies Used
 
@@ -102,10 +101,5 @@ Follow these steps to run coWritter locally:
 
 7. **Create an account and start collaborating on documents!**
 
-## **Contributing**
 
-Contributions are welcome! Please refer to the [Contributing Guidelines](contributing.md) for more information.
 
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
